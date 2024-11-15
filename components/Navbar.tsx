@@ -103,7 +103,7 @@ const Navbar = () => {
                   href="https://github.com/Zhang-BigSmart/short-link"
                   className="block font-medium text-sm text-white bg-gray-800 hover:bg-gray-600 active:bg-gray-900 md:inline"
                 >
-                  Github
+                  项目集合
                 </NavLink>
               </li>
             </ul>
