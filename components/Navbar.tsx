@@ -100,7 +100,7 @@ const Navbar = () => {
               })} */}
               <li>
                 <NavLink
-                  href="https://github.com/Zhang-BigSmart/short-link"
+                  href="https://blog.zznn.me"
                   className="block font-medium text-sm text-white bg-gray-800 hover:bg-gray-600 active:bg-gray-900 md:inline"
                 >
                   项目集合
