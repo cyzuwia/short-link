@@ -100,10 +100,10 @@ const Navbar = () => {
               })} */}
               <li>
                 <NavLink
-                  href="https://blog.zznn.me"
+                  href="https://sun.225777.xyz"
                   className="block font-medium text-sm text-white bg-gray-800 hover:bg-gray-600 active:bg-gray-900 md:inline"
                 >
-                  项目集合
+                  Sun-Panel
                 </NavLink>
               </li>
             </ul>
